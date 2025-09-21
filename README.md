@@ -1,7 +1,8 @@
 # arc-browser-icon-font
 Partially patched font with Arc Browser icons
 
-You need to replace /Applications/Arc.app/Contents/Resources/ARCClients_Icons.bundle/Contents/Resources/ionicons.ttf with it
+You need to replace /Applications/Arc.app/Contents/Resources/ARCClients_Icons.bundle/Contents/Resources/ionicons.ttf with uploaded version
+
 
 Changes:
 Replaced few icons with Internet Explorer, Grafana, Linux, OpenAI, Claude, Perplexity, Facebook, Instagram, Reddit, Slack, Linkedin and few more.
@@ -11,6 +12,7 @@ Replaced few icons with Internet Explorer, Grafana, Linux, OpenAI, Claude, Perpl
 
 Known issues: 4 icons are missing
 
+If you want your own version, you need to use font editor, like FontForge
 
 
 
